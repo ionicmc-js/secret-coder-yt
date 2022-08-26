@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @secret-coder-yt
-- 👀 I’m interested making Apps made with Java Swing
-- 🌱 I’m currently learning How to Make Apps
+- 👀 I’m interested making Apps made with JS
+- 🌱 I’m currently learning How to Make Web Apps
 - 💞️ I’m looking to collaborate on Any Projects
 - 📫 How to reach me ...
 
